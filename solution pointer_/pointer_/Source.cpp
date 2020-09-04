@@ -1,4 +1,4 @@
-//Aaron Samet. 
+//Aaron Samet. 5/02/2019
 //Exercise 8 - dynamic pointers;
 
 #include <iostream>
